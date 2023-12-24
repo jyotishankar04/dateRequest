@@ -17,5 +17,6 @@ document.querySelector("#no").addEventListener("mouseover", () => {
   moveButton();
 });
 document.querySelector("#yes").addEventListener("click", () => {
+  
   nextPage();
 });
